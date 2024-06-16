@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @venu-gadiparthi
+- 🌱 I’m currently learning go,Python
+- 📫 How to reach me ...
+- 😄 Pronouns: He/Him
